@@ -1,4 +1,17 @@
 html{
     color: blueviolet;
-    background-color: aqua;
-}  
+    background-color: black;
+    border:red;
+    border-width: calc(1);
+                             }  
+
+h1{
+    color: blue;
+    border:red;
+    border-width: var(#da0e0e)
+
+     }
+
+main.py{
+    background-color: black;
+}
